@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Bilumumum</string>
-    <string name="edit_message">Enter a Message</string>
-    <string name="button_send">Send</string>
+    <string name="app_name">Umut App</string>
+    <string name="edit_message">Mesajınızı Yazın</string>
+    <string name="button_send">Gönder</string>
 </resources>
